@@ -15,6 +15,7 @@ foreach($array2 as $value1)
 
 print_r($combine_array);
 
+echo php_info();
 
 
 ?>
